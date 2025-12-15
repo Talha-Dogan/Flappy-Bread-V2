@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-2.0-blue)
 ![Engine](https://img.shields.io/badge/Made%20with-Unity-black)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 > The crispy sequel to the original Flappy Bread! Now with smarter enemies and a global leaderboard.
 
@@ -43,10 +43,6 @@ Play the game directly in your browser on Itch.io:
     ```
 2.  Open the project in **Unity Hub**.
 3.  Enjoy the code!
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 *Developed by [Talha Dogan](https://talha-dogan.itch.io/)*
