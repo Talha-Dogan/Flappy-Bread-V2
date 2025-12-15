@@ -33,7 +33,9 @@ Play the game directly in your browser on Itch.io:
 
 | Main Menu | Gameplay | Leaderboard |
 |:---:|:---:|:---:|
-| | | |
+| <img width="794" height="420" alt="AaIuE_" src="https://github.com/user-attachments/assets/a5947efb-779a-4b08-bdf7-bf508f0f0f62" /> | <img width="729" height="407" alt="4DY2Rj" src="https://github.com/user-attachments/assets/1c7ede32-debc-4231-aafb-0b775500998b" /> | <img width="794" height="444" alt="tevbFC" src="https://github.com/user-attachments/assets/30d28b2d-48f8-4ae0-9ca3-f89331fe266d" /> ||
+
+
 
 ## 🚀 Installation & Setup
 
